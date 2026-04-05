@@ -1,2 +1,1 @@
-# javay
-Some description
+Readme content
